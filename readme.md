@@ -1,0 +1,1 @@
+This is a JavaScript framework that is meant to be lightweight and easy to use. It is intended to be used for piecemeal supplemental scripting to existing HTML as opposed to being a framework for building and running full programs.
